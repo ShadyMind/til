@@ -1,0 +1,19 @@
+{
+  "values": {
+    "text-font": {
+      "inherits": false,
+      "value": "sans-serif",
+      "syntax": "*"
+    },
+    "text-color": {
+      "inherits": false,
+      "value": "#222333",
+      "syntax": "<color> | auto"
+    },
+    "text-hero": {
+      "inherits": false,
+      "value": "&text-color",
+      "syntax": "<color>"
+    }
+  }
+}
